@@ -1,5 +1,7 @@
 # Melog
 
+![Melog 앱 아이콘](images/melog-icon.png)
+
 떠오른 멜로디를 빠르게 녹음하고 보관하는 iOS 앱입니다. **Melody + Log**의 합성어로, 로그인 없이 기기 안에서 바로 사용할 수 있는 MVP를 개발하고 있습니다.
 
 ## 주요 기능
